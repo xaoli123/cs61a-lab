@@ -14,4 +14,3 @@ def how_big(x):
         print('small')
     else:
         print("nothing")
-    how_big(7)
