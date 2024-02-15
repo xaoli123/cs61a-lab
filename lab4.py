@@ -21,6 +21,12 @@ def double_eights(n):
          return True
    return False
 
+#Q6
+def merge(lst1, lst2):
+    ls=lst1+lst2
+    lst=sorted(ls)
+    return lst
+
 #Q7
 def summation(n, term):
    result=0
